@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EjercicioSemana7_Equipo16/static/css/main.aab0ad4d.css",
+    "main.js": "/EjercicioSemana7_Equipo16/static/js/main.db17cfc2.js",
+    "static/js/787.dd8b0e45.chunk.js": "/EjercicioSemana7_Equipo16/static/js/787.dd8b0e45.chunk.js",
+    "static/media/itt.jpg": "/EjercicioSemana7_Equipo16/static/media/itt.b5ce533abe2cfd32691b.jpg",
+    "index.html": "/EjercicioSemana7_Equipo16/index.html",
+    "main.aab0ad4d.css.map": "/EjercicioSemana7_Equipo16/static/css/main.aab0ad4d.css.map",
+    "main.db17cfc2.js.map": "/EjercicioSemana7_Equipo16/static/js/main.db17cfc2.js.map",
+    "787.dd8b0e45.chunk.js.map": "/EjercicioSemana7_Equipo16/static/js/787.dd8b0e45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aab0ad4d.css",
+    "static/js/main.db17cfc2.js"
+  ]
+}
