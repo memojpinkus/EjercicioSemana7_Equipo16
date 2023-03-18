@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.Flex{
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Form label{
+  display: flex;
+  flex-direction: column;
+  margin: 8%;
+}
+
+.Form Button{
+  margin: 8%;
+}
+
+.Header img {
+  height: auto;
+  max-width: 30%;
+  margin-top: 1%;
+}
+
+.Table p{
+  font-size: 50px;
+  font-weight: bolder;
+}
